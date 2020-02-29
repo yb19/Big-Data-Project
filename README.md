@@ -1,5 +1,5 @@
 # Big-Data-Project
-This is the big data technology course the first part of the project.
+This is the first part of the project for the Big Data Technology course (STA 9760).
 
 ## Description:
 You can use this container to extract the Open Parking and Camera Violations data from NYC Open Data. You can also specify the number of rows (of data) on each page, the number of pages you want to load, and whether to print out the data to console or write the data to the file that you speficy.
